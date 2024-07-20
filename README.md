@@ -1,2 +1,2 @@
-# CODSOFT_T1
+# TASK_01
 A Landing page using HTML and CSS.
